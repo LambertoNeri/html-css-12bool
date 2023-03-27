@@ -1,19 +1,33 @@
-div{
+.blue{
     background-color: #006CFA;
     color: white;
-    height: 3rem;
     border: 1px white solid;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
+div{
+    height: 3rem;
+}
+
 .green{
     background-color: #00E165;
     border: 1px solid #006CFA;
-    height: 2rem;
+    height: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .some-padding{
-    padding: .5rem;
+    padding: 1rem;
+}
+
+.spacing-top{
+    margin-top: 3rem;
+}
+
+.height{
+    height: 5rem;
 }
