@@ -1,0 +1,19 @@
+div{
+    background-color: #006CFA;
+    color: white;
+    height: 3rem;
+    border: 1px white solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.green{
+    background-color: #00E165;
+    border: 1px solid #006CFA;
+    height: 2rem;
+}
+
+.some-padding{
+    padding: .5rem;
+}
